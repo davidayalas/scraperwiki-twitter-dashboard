@@ -6,8 +6,8 @@ Python code to execute inside Scraperwiki (https://scraperwiki.com) and get a da
 
 *	Once your script is executed, you can consume data throught its api:
 
-			https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=jsonlist&name=twitter_dashboard&query=select%20*%20from%20%60swdata%60
+			[https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=jsonlist&name=twitter_dashboard&query=select%20*%20from%20%60swdata%60](https://api.scraperwiki.com/api/1.0/datastore/sqlite?format=jsonlist&name=twitter_dashboard&query=select%20*%20from%20%60swdata%60)
 
 *	Live scrapper
 
-			https://scraperwiki.com/scrapers/twitter_dashboard/ 
+			[https://scraperwiki.com/scrapers/twitter_dashboard/](https://scraperwiki.com/scrapers/twitter_dashboard/)
